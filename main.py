@@ -248,7 +248,7 @@ if __name__ == '__main__':
 				log = ("Exception-{0}".format([e]))
 				print_log(log)
 				#mail(log , mail_addr)
-			print_log("出现问题请至https://github.com/ShiningDeadFishEyes/daka/issues提交issue.")
+			print_log("出现问题请至  https://github.com/ShiningDeadFishEyes/daka/issues   提交issue.")
 			mail(loginfo.mail_content , loginfo.mail_addr)
 		print_log("heartbeat - "  +str(sign_log))
 		time.sleep(300)
