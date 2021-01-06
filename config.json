@@ -1,0 +1,18 @@
+{
+	"user": "用户名不带邮箱",
+	"passwd": "密码",
+	"mailnotifation": "打卡通知邮箱，留空为不通知",
+	"location": "目前所在位置，取值school或home",
+	"reason": "留校或者回家的原因，值从下拉列表里选",
+	"character": "master为硕士，doctor博士",
+	"phone": "联系电话",
+	"major": "专业",
+	"grade": "年级",
+	"counselor": "学院秘书姓名",
+	"department": "公寓楼，注意不能写错，在下拉列表里有",
+	"room": "寝室号",
+	"province": "省",
+	"city": "市",
+	"part": "区/县",
+	"detail": "详细地址"
+}
